@@ -6,7 +6,7 @@
 ### I'm SmllXzBZ
 
 - Currently working on Reverse / Web Security / Fuzz / AEG
-- Blog: https://www.xderedu.com/
+
 
 <!--
 **SmllXzBZ/SmllXzBZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
