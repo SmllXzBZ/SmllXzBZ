@@ -1,4 +1,12 @@
 ### Hi there 👋
+<!--### Hi there 👋-->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SmllXzBZ&count_private=true&show_icons=true&theme=radical" width="420">
+
+### I'm SmllXzBZ
+
+- Currently working on Reverse / Web Security / Fuzz / AEG
+- Blog: https://www.xderedu.com/
 
 <!--
 **SmllXzBZ/SmllXzBZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
