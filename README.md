@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### TODO list
+
+- [ ] SLDT
+- [ ] Vulnerability Wiki
+- [ ] firmware fuzzing
